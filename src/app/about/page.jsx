@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const aboutPage = () => {
-    return (
-        <div>aboutPage</div>
-    )
-}
+  return <div className="h-screen bg-slate-800">aboutPage</div>;
+};
 
-export default aboutPage
+export default aboutPage;
